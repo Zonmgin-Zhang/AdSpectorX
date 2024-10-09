@@ -9,7 +9,12 @@
 
 ## Dataset
 
-The dataset is located at /dataset/REDNote, which has two directories: 1. the convert_ads_posts directory stores 250 posts that are convert ads in JSON format. 2. the normal_posts directory stores 250 posts that are normal posts in JSON format. Here is an example of normal post's JSON file:
+The dataset is located at /dataset/REDNote, it has two directories: 
+
+1. the 'convert_ads_posts' directory stores 250 posts that are convert ads in JSON format. 
+2. the 'normal_posts directory' stores 250 posts that are normal posts in JSON format.
+
+Here is an example of a normal post's JSON file:
 
 ```
 {
