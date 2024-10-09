@@ -1,0 +1,34 @@
+{
+    "title": "ACL24杰出论文奖：💡探究LLM被说服？！",
+    "description": "🚀 标题: The Earth is Flat because…: Investigating LLMs’ Belief towards Misinformation via Persuasive Conversation\n🏦 团队: 清华大学 (中国北京), 上海交通大学 (中国上海), 斯坦福大学 (美国加州), 南洋理工大学 (新加坡)\n🌐 来源: arXiv\n\n🛎️ 文章简介:\n🔺背景: 大语言模型（LLMs）虽然在训练中积累了大量知识，但仍然容易受到外部错误信息的影响。此前的研究主要集中在单轮对话中研究这种现象，但在多轮对话中，特别是说服性对话中，模型的信念可能会发生改变。为此，本文探讨了LLMs在面对错误信息时的敏感性，尤其是在可以正确回答的事实问题上。\n📝方法概述:\n1. Farm数据集:\n研究团队构建了一个名为Farm（Fact to Misinform）的数据集，包含一系列事实性问题及其对应的说服性错误信息。错误信息通过系统化的方法生成，利用逻辑、可信度和情感三种修辞策略增强说服力。\n2. 测试框架:\n研究设计了一个三阶段的测试框架，用于追踪LLMs在说服性对话中的信念变化。\n• 初始信念检查: 首先，评估模型对事实问题的初始信念。\n• 说服性对话: 然后，通过多轮对话传递错误信息，观察模型的信念是否会改变。每轮对话结束后进行隐性信念检查，避免模型意识到其正在接受测试。\n• 最终信念检查: 最终，评估模型在对话后的信念变化，判断其是否被成功误导。\n3. 实验:\n在对多个主流LLMs（包括ChatGPT、GPT-4等）的测试中，研究发现这些模型对说服性错误信息具有显著的敏感性。例如，GPT-4在多轮对话后有20.7%的概率被错误信息误导，而ChatGPT的误导率高达50.1%。\n💡 结论:\n研究表明，即使是先进的语言模型在面对结构化、说服性强的错误信息时，也容易改变原有的正确信念。这一发现对LLMs的应用提出了新的挑战，强调了加强模型抗误导能力的重要性。\n#大语言模型 #错误信息 #说服性对话 #信念变化 #模型评估 #抗误导性 #自然语言处理 #LLM #ACL #AI",
+    "date": "08-20 美国",
+    "comments": [
+        "看到一些评论，想要表达一下个人观点：不建议在 不给出比较充分的解释 的前提下，就给别人工作定性，尤其是给出负面的评价。这种行为应该被更谨慎地作出（如对自己观点给出充分的support），例如详细地阐述哪里不够好。否则，感觉对别人的工作挺不尊重的。科研嘛，感觉还是更需要互相鼓励互相挖掘其他人的闪光点，并促进共同进步。",
+        "ACL的侧重点不一样，不是hardcore 的算法也可以，但是得有insights。这篇文章multiple turn persuasion的思路还是很有意义的",
+        "不愧故事会",
+        "我看见prompt就要吐",
+        "对 如果提出一个建模的方法就完美了",
+        "empirical study挺坚实的，不过既然是outstanding级别的工作，还是期待能提出关于alignment，post-training之类的方案",
+        "我看了这篇论文，有些诧异的是 现在论文只靠调gpt api就可以拿到outstanding paper了....",
+        "故事会",
+        "从openai的model spec看，这貌似是他们设定的一种模型行为",
+        "哈哈哈",
+        "ACL is not an AI conference",
+        "吐啊吐啊就习惯了",
+        "。。。LLM的论文真是啥题材的都有，佩服他们的想象力",
+        "你就说发没发吧",
+        "水文，看到是acl就放心了",
+        "dd"
+    ],
+    "image": [
+        "1040g008316n9am530u3g49v5mhmieqhv5knbp9o!nd_dft_wlteh_webp_3_0.jpg",
+        "1040g008316n9am530u0049v5mhmieqhv7kavq7g!nd_dft_wlteh_webp_3_1.jpg",
+        "1040g008316n9am530u0g49v5mhmieqhvdrbuja0!nd_dft_wlteh_webp_3_2.jpg",
+        "1040g008316n9am530u1049v5mhmieqhvlm47tno!nd_dft_wlteh_webp_3_3.jpg",
+        "1040g008316n9am530u1g49v5mhmieqhvpkiv9r0!nd_dft_wlteh_webp_3_4.jpg",
+        "1040g008316n9am530u2049v5mhmieqhvpj92mng!nd_dft_wlteh_webp_3_5.jpg",
+        "1040g008316n9am530u2g49v5mhmieqhva4ju54o!nd_dft_wlteh_webp_3_6.jpg",
+        "1040g008316n9am530u3049v5mhmieqhv8trjev0!nd_dft_wlteh_webp_3_7.jpg"
+    ],
+    "label": 0
+}

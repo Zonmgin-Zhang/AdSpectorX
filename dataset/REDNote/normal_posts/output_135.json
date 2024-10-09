@@ -1,0 +1,19 @@
+{
+    "title": "#深度学习+医学影像，收入600",
+    "description": "利用最前沿的深度学习技术，开发了一款能够基于医学影像（X射线）智能判断项韧带钙化的AI工具。通过X射线图像，就能快速得出判断项韧带钙化的类型、项韧带钙化节段以及项韧带钙化的程度。也许不久的将来，我们每个人都能享受到更便捷、更高效的医疗服务✨。",
+    "date": "08-22 河北",
+    "comments": [
+        "现在mamba模型做医学领域的比较火，你可以关注一下",
+        "训练集多少张图？",
+        "300左右？",
+        "数据是公共的，还是私人的？",
+        "私人的啦 经过脱敏处理的"
+    ],
+    "image": [
+        "1040g34o316qau41v3k005npa35t08r9q2d6eptg!nd_dft_wgth_webp_3_0.jpg",
+        "1040g0k0316qamjp13k005npa35t08r9q34ko0jg!nd_dft_wlteh_webp_3_1.jpg",
+        "1040g0k0316qapo4g0s005npa35t08r9qpf31pn8!nd_dft_wlteh_webp_3_2.jpg",
+        "1040g0k0316qamjns0q005npa35t08r9qd6rq9go!nd_dft_wgth_webp_3_3.jpg"
+    ],
+    "label": 0
+}

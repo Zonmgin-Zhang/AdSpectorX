@@ -1,0 +1,15 @@
+{
+    "title": "AI科学家带来的学术界大地震？",
+    "description": "Sakana AI是一家位于日本东京的人工智能初创公司。Sakana AI最近推出了“AI科学家”，这是全球首个用于自动化科学研究的AI系统。该系统能够从构思、实验设计代码编写，到撰写完整的科学论文，自动化整个研究过程，甚至配置了AI审稿人。而且每篇论文的生成成本仅为15美元。\n💻值得一提的是在技术上Sakana AI拒绝追求大规模模型，而是采用“小模型”策略，旨在通过模型间的协作解决问题，是很典型的AI Agent的构建思路。\n💰融资情况上，Sakana AI在2024年完成了3000万美元的种子轮融资，估值达到1800亿日元（约合11.5亿美元），成为日本AI领域的独角兽之一。",
+    "date": "08-26 浙江",
+    "comments": [],
+    "image": [
+        "1040g008316vif40j3u2g5oqd052mbqduhk0i55o!nd_dft_wgth_webp_3_0.jpg",
+        "1040g008316vif40j3u005oqd052mbqdu9haraj0!nd_dft_wlteh_webp_3_1.jpg",
+        "1040g008316vif40j3u0g5oqd052mbqdu1fg6ci8!nd_dft_wgth_webp_3_2.jpg",
+        "1040g008316vif40j3u105oqd052mbqdus0l4138!nd_dft_wgth_webp_3_3.jpg",
+        "1040g008316vif40j3u1g5oqd052mbqdu80aogcg!nd_dft_wgth_webp_3_4.jpg",
+        "1040g008316vif40j3u205oqd052mbqduh948nqg!nd_dft_wgth_webp_3_5.jpg"
+    ],
+    "label": 0
+}

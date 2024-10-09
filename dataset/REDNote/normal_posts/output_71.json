@@ -1,0 +1,11 @@
+{
+    "title": "图像分割卷积网络导图(生物医学)",
+    "description": "#Python ( #PyTorch 和 #TensorFlow ) #图像分割 卷积网络导图( #生物医学 )\n1.  #语义 分割图像2. 三层分割 #椭圆 图像3.  #脑肿瘤 图像分割4.  #动物图像 分割5.  #皮肤病变 分割6.  #多模态  #医学 图像7.  #多尺度 特征生物医学8.  #肖像 多类和医学分割9. 通用 #图像分割 模板10.  #腹部  #胰腺 图像分割分类 #注意力 网络11.  #病灶 边界分割12.  #气胸 图像分割",
+    "date": "2 天前 江苏",
+    "comments": [],
+    "image": [
+        "1040g34o317h58goc0o0g5o07soqgbnu3sm5j8fg!nd_dft_wgth_webp_3_0.jpg",
+        "1040g0k0317h58fn4gs005o07soqgbnu3pbmpcv0!nd_dft_wgth_webp_3_1.jpg"
+    ],
+    "label": 0
+}

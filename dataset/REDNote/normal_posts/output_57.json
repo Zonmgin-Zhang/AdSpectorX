@@ -1,0 +1,12 @@
+{
+    "title": "Open-MAGVIT2：自回归图像生成再进化",
+    "description": "Title\nOpen-MAGVIT2: An Open-Source Project Toward Democratizing Auto-regressive Visual Generation\n\nKeynotes\n1. 复现了MAGVIT-v2 tokenizer，用了一个非常大的codebook（2^18）；\n2. 开源了三个版本300M, 800M, 1.5B；\n\nCode\n1. 已经开源在TencentARC/Open-MAGVIT2",
+    "date": "2 天前 北京",
+    "comments": [],
+    "image": [
+        "1040g0k0317h4qd0t0o005oa7pdigkkd2kn9qc4o!nd_dft_wgth_webp_3_0.jpg",
+        "1040g0k0317h4em090m005oa7pdigkkd2tra6oj8!nd_dft_wgth_webp_3_1.jpg",
+        "1040g34o317h4ot3ugs0g5oa7pdigkkd2i8n9ceg!nd_dft_wgth_webp_3_2.jpg"
+    ],
+    "label": 0
+}

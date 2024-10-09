@@ -1,0 +1,15 @@
+{
+    "title": "跑通图像分类真不容易",
+    "description": "回想做CNN的MNIST项目，简直就是一场虐心之旅。刚开始搞卷积核、池化层，调了无数次参数，准确率还是扑街。看着别人模型效果都很好，我就不断查资料、改代码，结果越调越崩溃。\n最后发现问题出在卷积层设置上，调整了几次后，准确率终于提升了。虽然熬夜无数，但当模型成功分类时，成就感瞬间爆棚。总结一句话：折腾是必然的，但看到成果后，一切都值了！\n#学习交流 #人工智能 #初学者 #cnn卷积神经网络",
+    "date": "2 天前 上海",
+    "comments": [],
+    "image": [
+        "1040g008317h8d7754a4g5pmuo723cgo5hq50030!nd_dft_wgth_webp_3_0.jpg",
+        "1040g008317h8d7754a605pmuo723cgo5vd38pr0!nd_dft_wlteh_webp_3_1.jpg",
+        "1040g008317h8d7754a505pmuo723cgo5nc7idu0!nd_dft_wlteh_webp_3_2.jpg",
+        "1040g008317h8d7754a5g5pmuo723cgo5np2v9q8!nd_dft_wlteh_webp_3_3.jpg",
+        "1040g008317h8d7754a305pmuo723cgo54d4nskg!nd_dft_wgth_webp_3_4.jpg",
+        "1040g008317h8d7754a405pmuo723cgo58pm117g!nd_dft_wgth_webp_3_5.jpg"
+    ],
+    "label": 0
+}

@@ -1,0 +1,21 @@
+{
+    "title": "SinSR：基于扩散的单步图像超分辨率",
+    "description": "【论文标题】\nSinSR: Diffusion-Based Image Super-Resolution in a Single Step\n\n【论文单位】\n南洋理工大学、上海人工智能实验室、鹏城实验室、香港理工大学\n\n【论文出处】\nCVPR 2024\n\n【技术亮点】✨\nSinSR技术通过单步推理显著提升了图像超分辨率的效率，同时保持或超越了现有最佳方法的性能。\n\n【工作原理】🔍\n1. 提出确定性采样过程，从SOTA方法中加速扩散模型的超分辨率。\n2. 引入一致性保持损失，利用真实图像信息，提升学生模型性能。\n\n【实验结果】📈\n1. SinSR在ImageNet-Test数据集上PSNR达到24.56dB，SSIM为0.657，LPIPS为0.221。\n2. 在RealSet65数据集上CLIPIQA得分0.6887，MUSIQ得分61.582，优于多步推理的教师模型。\n3. 推理速度显著提升，单步推理时间仅为0.012秒，比15步推理快了约10倍。\n\n【应用场景】🏢\n1. 实时视频增强，为监控和视频会议提供高清视觉体验。\n2. 数字图像修复，快速提升老旧照片的分辨率和质量。\n\n【结语】📝\nSinSR技术为图像超分辨率领域带来了革命性的单步推理方法，不仅大幅提高了效率，还保证了图像质量，期待其在未来更多的视觉应用中大放异彩。\n\n- 如果您有想法或见解，欢迎在评论区留言！💬\n- 欢迎关注，每日获取最新AI前沿进展🔥\n\n#CVPR  #扩散模型  #计算机视觉  #超分辨率",
+    "date": "08-19 广东",
+    "comments": [
+        "这指标没超也说是sota吗",
+        "真的水"
+    ],
+    "image": [
+        "1040g0k0316j3q30u0m005pa7n4qgi6fj17psl20!nd_dft_wlteh_webp_3_0.jpg",
+        "1040g34o316j3q2nj0o0g5pa7n4qgi6fj5nbf068!nd_dft_wlteh_webp_3_1.jpg",
+        "1040g0k0316j3q2lkgm005pa7n4qgi6fje58t8jg!nd_dft_wgth_webp_3_2.jpg",
+        "1040g34o316j3q2pjgs0g5pa7n4qgi6fjron5j40!nd_dft_wlteh_webp_3_3.jpg",
+        "1040g34o316j3q2qs0k0g5pa7n4qgi6fjvn2rqpg!nd_dft_wlteh_webp_3_4.jpg",
+        "1040g34o316j3q2slgs0g5pa7n4qgi6fjs7p46fo!nd_dft_wlteh_webp_3_5.jpg",
+        "1040g34o316j3q2u00o0g5pa7n4qgi6fj28v1joo!nd_dft_wlteh_webp_3_6.jpg",
+        "1040g34o316j3q2vkgs005pa7n4qgi6fj7u48g88!nd_dft_wlteh_webp_3_7.jpg",
+        "1040g34o316j3q33jgk0g5pa7n4qgi6fj8u5bmio!nd_dft_wlteh_webp_3_8.jpg"
+    ],
+    "label": 0
+}
