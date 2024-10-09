@@ -26,7 +26,7 @@ The dataset is located at /dataset/REDNote, which has two directories: 1. the co
         "normal6_output/1040g2sg317h4t62vgqbg5o9gea6gjcvuhirtfsg!nd_dft_wlteh_webp_3_3.jpg",
         "normal6_output/1040g2sg317h4t62vgqcg5o9gea6gjcvu38kuoo0!nd_dft_wgth_webp_3_4.jpg"
     ],
-    "label": 0  # label 0 for normal post, 1 for convert ads
+    "label": 0  #label 0 for normal post, 1 for convert ads
 }
 ```
 
