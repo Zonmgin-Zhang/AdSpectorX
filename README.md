@@ -3,7 +3,7 @@
 ## Overview
 
 <div align=center>
-<img src="./docs/framework.png"> 
+<img src="./docs/expert.jpg"> 
 </div>
 
 
