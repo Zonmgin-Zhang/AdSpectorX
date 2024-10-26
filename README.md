@@ -43,5 +43,21 @@ Here is an example of a normal post's JSON file:
 If you use our dataset or paper in your work, please cite our paper.
 
 ```
-Coming Soon...
+@inproceedings{10.1145/3698387.3700001,
+author = {Zhang, Zongmin and Han, Yujie and Zhang, Zhou and Liu, Yule and Zheng, Jingyi and Sun, Zhen},
+title = {AdSpectorX: A Multimodal Expert Spector for Covert Advertising Detection on Chinese Social Media},
+year = {2024},
+isbn = {9798400712999},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3698387.3700001},
+doi = {10.1145/3698387.3700001},
+abstract = {As the number of social media users has surged dramatically, the issue of covert advertising on these platforms has become increasingly severe, especially within the context of Chinese social media, such as REDnote. This form of advertising not only compromises user experience but also has the potential to mislead consumers, leading to economic losses. Despite the escalating seriousness of this issue, research on detecting covert advertising in Chinese social media environments still needs to be conducted. This study aims to fill this gap. We introduce a multimodal expert system named AdSpectorX, which utilizes input from text and image modalities to identify covert advertising content. To evaluate the effectiveness of the AdSpectorX method, we constructed a dataset that contains 500 manually collected posts, including texts of posts, related images, and user comments from the REDnote platform. Experimental results show that AdSpectorX can effectively identify covert advertisements, achieving an accuracy of 95.06\%, thus laying the groundwork for future research in this field. The dataset is available at https://github.com/Zonmgin-Zhang/AdSpectorX.},
+booktitle = {Proceedings of the Third International Workshop on Social and Metaverse Computing, Sensing and Networking},
+pages = {50–56},
+numpages = {7},
+keywords = {Chinese Social Media, Covert Advertising Detection, Multimodal},
+location = {Hangzhou, China},
+series = {SocialMeta '24}
+}
 ```
