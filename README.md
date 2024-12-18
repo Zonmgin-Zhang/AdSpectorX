@@ -28,8 +28,8 @@ Here is an example of a normal post's JSON file:
         "1040g2sg317h4t62vgqag5o9gea6gjcvu0881398!nd_dft_wgth_webp_3_0.jpg",
         "1040g2sg317h4t62vgqdg5o9gea6gjcvu4h5rrfg!nd_dft_wlteh_webp_3_1.jpg",
         "1040g2sg317h4t62vgqc05o9gea6gjcvutq3jd30!nd_dft_wlteh_webp_3_2.jpg",
-        "normal6_output/1040g2sg317h4t62vgqbg5o9gea6gjcvuhirtfsg!nd_dft_wlteh_webp_3_3.jpg",
-        "normal6_output/1040g2sg317h4t62vgqcg5o9gea6gjcvu38kuoo0!nd_dft_wgth_webp_3_4.jpg"
+        "1040g2sg317h4t62vgqbg5o9gea6gjcvuhirtfsg!nd_dft_wlteh_webp_3_3.jpg",
+        "1040g2sg317h4t62vgqcg5o9gea6gjcvu38kuoo0!nd_dft_wgth_webp_3_4.jpg"
     ],
     "label": 0  #label 0 for normal post, 1 for convert ads
 }
